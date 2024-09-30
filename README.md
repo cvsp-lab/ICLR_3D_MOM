@@ -3,7 +3,7 @@
 
 <br>
 
-<source src="asset/zoom.mp4" type="video/mp4">
+<source src="asset/main/zoom.mp4" type="video/mp4">
 <br>
 
 </div>
